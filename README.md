@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monader99&label=Profile%20views&color=0e75b6&style=flat" alt="monader99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monader99" alt="monader99" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mnader22" target="blank"><img src="https://img.shields.io/twitter/follow/mnader22?logo=twitter&style=for-the-badge" alt="mnader22" /></a> </p>
 
 - 🔭 I’m currently working on [Afrad System](Classified)
