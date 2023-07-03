@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mnader22" target="blank"><img src="https://img.shields.io/twitter/follow/mnader22?logo=twitter&style=for-the-badge" alt="mnader22" /></a> </p>
 
-- 🔭 I’m currently working on [Afrad System](Classified)
+- 🔭 I’m currently working on [Afrad System (Military Project)](Classified)
 
 - 🌱 I’m currently learning **Next.JS then Vue.JS**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mnader93@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10Rvh-8C5N-wFzHgoVzJ01SJcKb6slFyF/view?usp=sharing](https://drive.google.com/file/d/10Rvh-8C5N-wFzHgoVzJ01SJcKb6slFyF/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yH782HUoHMLCfdd5tqmfcTwg5p7dk3F5/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
