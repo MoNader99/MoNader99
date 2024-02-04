@@ -9,11 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoNader99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.ibb.co/wJg6xHd/Whats-App-Image-2024-01-26-at-13-58-33-97a17f08.jpg"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -99,7 +94,7 @@
   <a href="https://twitter.com/Mnader22" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="mnadee93@yahoo.com" target="_blank">
+  <a href="mnader93@yahoo.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="47" height="35" alt="paypal logo"  />
   </a>
 </div>
